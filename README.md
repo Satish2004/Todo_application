@@ -59,6 +59,7 @@ A modern, responsive To-Do Management Application built using **Vue.js**, with f
 - Users can interact with the 3D model directly within the app.
 
   ---
-- LINK-> (https://todobysatish.netlify.app/)
+- HOSTED LINK-> (https://todobysatish.netlify.app/)
+- REPO LINK->(https://github.com/Satish2004/Todo_application)
 
 
