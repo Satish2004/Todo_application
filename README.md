@@ -53,4 +53,12 @@ A modern, responsive To-Do Management Application built using **Vue.js**, with f
 
 ---
 
+🎁 Bonus Features
+🧠 Integrated a 3D animated model using Sketchfab Embed, enhancing visual appeal and interactivity.
+
+- Users can interact with the 3D model directly within the app.
+
+  ---
+
+
 
