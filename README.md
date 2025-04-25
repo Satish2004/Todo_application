@@ -53,5 +53,4 @@ A modern, responsive To-Do Management Application built using **Vue.js**, with f
 
 ---
 
-## 📁 Project Structure
 
